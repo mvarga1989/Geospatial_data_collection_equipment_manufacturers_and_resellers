@@ -11,7 +11,6 @@
 - Trimble
 - Leica
 - [Topcon](https://www.topconpositioning.com/surveying)
-- [Topcon](https://www.topcon.co.jp/en/positioning/sokkia/products/appli/survey/)
 - [Sokkia](https://eu.sokkia.com/)
 - [AllNav](https://allnav.com/)
 - [BadElf](https://bad-elf.com/)
@@ -39,41 +38,43 @@
 - [SatLab](https://www.satlab.com.se/)
 - [Septentrio](https://www.septentrio.com/en)
 - [SingularXYZ](https://singularxyz.com/)
-- [SinoGNSS ComNAV](http://www.comnavtech.com/)](https://comnav.com/)
+- [SinoGNSS ComNAV](https://comnav.com/)
 - [Spectra Geospatial](https://spectrageospatial.com/)
-- [Spectra Precisions](https://www.spectralasers.com/)
+- [Spectra Precision lasers](https://www.spectralasers.com/)
 - [South instrument](https://www.southinstrument.com/)
 - [Stonex](https://www.stonex.it/)
-- [SXBlueSmart](www.sxbluegps.com)
+- [SXBlue](https://www.sxbluegps.com/)
+- [Tersus GNSS](https://www.tersus-gnss.com/)
 - [Tallysman](https://www.tallysman.com/)
 
 ## GNSS component manufacturers (antennas, chips)
 
 - [Locata](https://www.locata.com/)
 - [Furuno](https://www.furuno.com/en/gnss/)
-- [Tallysmann](https://www.tallysman.com/)
-- [Rock Robotics](https://www.rockrobotic.com/)
-- [Yellowscane](https://www.yellowscan-lidar.com/)
 
 
-# Geopysical instruments (gravimeters)
+# Geophysical instruments (gravimeters)
 
 - [GemSys](https://www.gemsys.ca/)
-- [RTK Fix](https://rtkfix.com/dealers/)
+- [Exail, quantum gravimeters](https://www.exail.com/product/quantum-gravimeters)
+- [Micro-g LaCoste](https://microglacoste.com/)
 - [Scintrex](https://scintrexltd.com/)
 
 
 # Laser scanner manufacturers
 
-- [3D Digital Corporation]()
+- 3D Digital Corporation
 - [Artec](https://www.artec3d.com/)
 - Carl Zeiss Optotechnik
 - Creaform
-- [Faro,](https://www.faro.com/de-DE/404)
+- [Emesent](https://emesent.com/)
+- [FARO](https://www.faro.com/) (part of AMETEK since 2025)
+- [FJD (FJDynamics)](https://www.fjdynamics.com/)
 - [Gexcel](https://gexcel.it/en/third-party-products/laser-scanners)
 - IPhone
-- [Leica,](https://leica-geosystems.com/de-ch/products/laser-scanners/scanners)
-- [Maptek,](https://www.maptek.com/products/scanners/)
+- [Leica](https://leica-geosystems.com/de-ch/products/laser-scanners/scanners)
+- [Maptek](https://www.maptek.com/products/scanners/)
+- [NavVis](https://www.navvis.com/)
 - Pentax
 - [Riegl](http://www.riegl.com/)
 - [Stonex](https://www.stonex.it/prodotti/3d-scanning/tof-laser-scanner/)
@@ -82,6 +83,7 @@
 - Topcon
 - Trimble
 - [Zoller Frohlich](https://www.zofre.de/)
+- [XGRIDS](https://www.xgrids.com/)
 
 # Total station manufacturers
 
@@ -110,19 +112,24 @@
 - [barnardmicrosystems](http://www.barnardmicrosystems.com/)
 - [DJI Enterprise](https://enterprise.dji.com/)
 - DroneDeploy
-- [Event 38 Unmanned Systems,](https://event38.com/)
+- [Event 38 Unmanned Systems](https://event38.com/)
 - [Route Scene](https://www.routescene.com)
 - [Geoscan](https://www.geoscan.aero/en)
 - [Geofly](https://web.geofly.eu/en/index.html)
-- [GeoSlam](https://geoslam.com/)
+- [GeoSLAM](https://geoslam.com/) (part of FARO since 2022)
 - Parrot SA
 - PrecisionHawk
+- [Quantum-Systems](https://quantum-systems.com/)
+- [Rock Robotic](https://www.rockrobotic.com/)
 - Sentera
-- [Swiss drones](https://www.swissdrones.com/}{\faExternalLinkSquare}
+- [senseFly / AgEagle (eBee)](https://ageagle.com/)
+- [Skydio](https://www.skydio.com/)
+- [Swiss drones](https://www.swissdrones.com/)
 - [Teledyne Optech](https://www.teledyneoptech.com/EN/HOME/)
 -  Trimble Inc.
 - [UAV Solutions](https://uav-solutions.com/)
 - [Wingtra](https://wingtra.com/)
+- [YellowScan](https://www.yellowscan-lidar.com/)
 
 
 ## Supplementary surveying equipment
@@ -147,13 +154,13 @@
 - [Eagle CORS](https://www.eaglecors.com/)
 - [Frugal Industry](https://frugalindustry.com/)
 - [Frontier Precision](https://frontierprecision.com/)
-- [Geo-Science,](https://www.geo-science.ch/)
+- [Geo-Science](https://www.geo-science.ch/)
 - [Geocentar](https://geocentar.com/)
 - [Geomatika Smolčak](https://geomatika-smolcak.hr/)
 - [Geooprema](https://geooprema.com/)
 - [Geo-matching](https://geo-matching.com/)
 - [Geometra](https://www.geometra.ch/)
-- [Geosmartcengeowildter](https://geosmartcenter.com/)
+- [GeoSmart Center](https://geosmartcenter.com/)
 - [Geowild](https://www.geowild.hr/)
 - [Goecke](https://goecke.de/index.php)
 - [GeoSurvey utilities](https://geosurvey.co.uk/)
@@ -181,7 +188,7 @@
 - [Scanning Spheres](https://scanningspheres.com/#)
 - [Spectra Direkt](https://www.spectra-direkt.de/)
 - [Stonex](http://stonex.hr/)
-- [Survey Equipment,](https://surveyequipment.com/)
+- [Survey Equipment](https://surveyequipment.com/)
 - [Topotienda](https://topotienda.com/)
 - [Total Stations Store](https://www.totalstationsstore.com/)
 - [Trade India](https://www.tradeindia.com/Seller/Scientific-Laboratory-Instruments/Survey-Meteorological-Instruments-Equipment/)
@@ -197,5 +204,5 @@
 ## UAV sellers
 
 - [Aeromotus](https://www.aeromotus.com/)
-- [Microdroes](https://www.microdrones.com/en/)
-- [UAV sellrs](https://topodrone.org/)
+- [Microdrones](https://www.microdrones.com/en/)
+- [Topodrone](https://topodrone.org/)
